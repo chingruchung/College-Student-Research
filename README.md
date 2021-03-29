@@ -1,2 +1,3 @@
-# College-Student-Research
-speeding up diffusion maps with three methods
+# Speeding up diffusion maps with three methods
+
+## Abstract
